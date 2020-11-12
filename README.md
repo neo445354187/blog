@@ -1,2 +1,2 @@
 # blog
-record somethings
+博客主要用于记录
