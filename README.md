@@ -1,5 +1,6 @@
-# blog
-博客主要用于记录
+# 博客
+
+>> 博客主要用于记录和备份一些知识点
 
 ## 【容器】
 - [docker-笔记](https://github.com/neo445354187/blog-docker)
